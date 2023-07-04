@@ -43,7 +43,7 @@
   <img src="https://github.com/duckbankbok/2023_BTS_CO2-Subtraction/assets/64826387/d9e7e405-0ba2-4b2c-b227-5f1d2adc0770" alt="mathematical formulation" width="75%"/>
 </div>
 
-The proposed model is an **integer programming (IP)** consisting with 3 objectives. **Objective (1)** maximizes the number of covered heat vulnerable people. **Objective (2)** maximizes carbon sequestration of sites. **Objective (3)**  minimizes the total infrastructure installation cost. **Constraints (4)** ensures that $𝑥_𝑖$ is covered if and only if there are type 2 site(s) within 1,000m. **Constraints (5)** ensures the possible site should be among type 0, 1, 2.
+The proposed model is an **integer programming (IP)** consisting with 3 objectives. **Objective (1)** maximizes the number of covered heat vulnerable people. **Objective (2)** maximizes carbon sequestration of sites. **Objective (3)**  minimizes the total infrastructure installation cost. **Constraint (4)** ensures that $x_i$ is covered if and only if there are type 2 site(s) within 1,000m. **Constraint (5)** ensures the possible site should be among type 0, 1, 2.
 
 ## Solution Approach
 
@@ -52,7 +52,7 @@ We are going to find optimal urban greening plans for Nam-gu, Ulsan using **NSGA
 ### Solution Representation
 
 <div align=center>
-  <img src="https://github.com/duckbankbok/2023_BTS_CO2-Subtraction/assets/64826387/3aa69f26-14c2-4955-9d61-5ca404345098" alt="solution representation" width="40%"/>
+  <img src="https://github.com/duckbankbok/2023_BTS_CO2-Subtraction/assets/64826387/32e6ae0e-1ddd-4661-9ca0-93f9f16a176d" alt="solution representation" width="40%"/>
 </div>
 
 - Each index of solution representation means index of possible site, and integer number means type of possible site.
