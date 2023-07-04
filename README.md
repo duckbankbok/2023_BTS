@@ -13,7 +13,7 @@
 ## Problem Description
 
 <div align=center>
-  <img src="https://github.com/duckbankbok/2023_BTS_CO2-Subtraction/assets/64826387/2240a322-6552-402c-a4f6-8d579774d8f0" alt="map" width="75%"/>
+  <img src="https://github.com/duckbankbok/2023_BTS_CO2-Subtraction/assets/64826387/2240a322-6552-402c-a4f6-8d579774d8f0" alt="map"/>
 </div>
 
 ### Goal
