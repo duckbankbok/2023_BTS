@@ -2,18 +2,18 @@
 
 ## About us
 
-| 이름 | 구분 |
-| ----- | ----- |
-| 복영규 | 팀장 |
-| 송유진 | 팀원 |
-| 김영진 | 팀원 |
-| 김보민 | 팀원 |
-| Artem Kim | 팀원 |
+| 이름 | 구분 | GitHub |
+| ----- | ----- | ----- |
+| 복영규 | 팀장 | [@duckbankbok](https://github.com/duckbankbok) |
+| 송유진 | 팀원 | [@yujin0908](https://github.com/yujin0908) |
+| 김영진 | 팀원 | [@youngjin02](https://github.com/youngjin02) |
+| 김보민 | 팀원 |  |
+| Artem Kim | 팀원 |  |
 
 ## Problem Description
 
 <div align=center>
-  <img src="https://github.com/duckbankbok/2023_BTS_CO2-Subtraction/assets/64826387/2240a322-6552-402c-a4f6-8d579774d8f0" alt="map"/>
+  <img src="https://github.com/duckbankbok/2023_BTS_CO2-Subtraction/assets/64826387/3f1389c0-b228-4778-b8bd-cbc10426606f" alt="map"/>
 </div>
 
 ### Goal
@@ -26,7 +26,7 @@
 - Heat vulnerable people are covered **when there are type 2 site(s) within 1,000m**.
 
 <div align=center>
-  <img src="https://github.com/duckbankbok/2023_BTS_CO2-Subtraction/assets/64826387/9e85a7fe-6d52-4bef-9475-4f3e3a152143" alt="table" width="60%"/>
+  <img src="https://github.com/duckbankbok/2023_BTS_CO2-Subtraction/assets/64826387/9e85a7fe-6d52-4bef-9475-4f3e3a152143" alt="table" width="75%"/>
 </div>
 
 ### Notation
@@ -52,7 +52,7 @@ We are going to find optimal urban greening plans for Nam-gu, Ulsan using **NSGA
 ### Solution Representation
 
 <div align=center>
-  <img src="https://github.com/duckbankbok/2023_BTS_CO2-Subtraction/assets/64826387/32e6ae0e-1ddd-4661-9ca0-93f9f16a176d" alt="solution representation" width="40%"/>
+  <img src="https://github.com/duckbankbok/2023_BTS_CO2-Subtraction/assets/64826387/32e6ae0e-1ddd-4661-9ca0-93f9f16a176d" alt="solution representation"/>
 </div>
 
 - Each index of solution representation means index of possible site, and integer number means type of possible site.
