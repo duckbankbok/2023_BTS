@@ -7,8 +7,8 @@
 | 복영규 | 팀장 | [@duckbankbok](https://github.com/duckbankbok) |
 | 송유진 | 팀원 | [@yujin0908](https://github.com/yujin0908) |
 | 김영진 | 팀원 | [@youngjin02](https://github.com/youngjin02) |
-| 김보민 | 팀원 |  |
-| Artem Kim | 팀원 |  |
+| 김보민 | 팀원 | [@BominKim0120](https://github.com/BominKim0120) |
+| Artem Kim | 팀원 | [@pikopalpi](https://github.com/pikopalpi) |
 
 ## Problem Description
 
