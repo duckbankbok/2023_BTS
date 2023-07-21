@@ -1,4 +1,4 @@
-# 2023_UNIST_BTS(Beyond The Society)_코빼기(CO2 빼기)
+# 2023_UNIST_BTS(Brain to Society)_코빼기(CO<sub>2</sub> 빼기/CO<sub>2</sub> Subtraction)
 
 ## About us
 
